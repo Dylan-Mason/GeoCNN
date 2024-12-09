@@ -34,5 +34,5 @@ Due to GitHub's file size limits, large files are stored externally and can be d
 
 ## How to Run the Project
 1. Clone this repository:
-   git clone https://github.com/your-username/GeoCNN.git
+   git clone https://github.com/Dylan-Mason/GeoCNN.git
 
